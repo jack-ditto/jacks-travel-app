@@ -46,3 +46,17 @@ Currently this app has a functional user interface implemented with React and a 
 #### Specific stuff
 - [ ] Add confirmation message when deleting a trip
 - [ ] Add format checking for trip cover photo uploads
+
+
+### Screenshots
+<img width="998" alt="image" src="https://user-images.githubusercontent.com/31874647/158963299-f46a1223-136a-4fc6-bdd7-803425978b49.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/31874647/158963344-b8ddea56-3e94-4c2f-a7f9-c689df929dcc.png">
+<img width="999" alt="image" src="https://user-images.githubusercontent.com/31874647/158963384-cda8607d-4159-4710-9833-39252d0f3724.png">
+<img width="997" alt="image" src="https://user-images.githubusercontent.com/31874647/158963492-ae24b35b-061d-4c55-a84e-234e9c501102.png">
+<img width="1002" alt="image" src="https://user-images.githubusercontent.com/31874647/158963588-61aa95f7-3c6c-4c12-ae7e-6e20ce0db3d1.png">
+
+### Demo Video
+https://user-images.githubusercontent.com/31874647/158964028-8bfbd944-7ca3-49f6-b75f-2ccea01ff6e6.mov
+
+
+
